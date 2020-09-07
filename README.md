@@ -1,3 +1,4 @@
+![Tenderprotocol](https://user-images.githubusercontent.com/25812095/92360521-39736280-f0ed-11ea-945e-90f7389115f1.jpg)
 
 ## Wat vooraf ging
 
