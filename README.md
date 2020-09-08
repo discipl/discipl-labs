@@ -95,7 +95,7 @@ De verdere uitwerking van de regels en de wijze van gunning binnen het tender pr
 
 **Shortlist kandidaat opdrachten om de proef te kunnen starten**
 
-Hiervoor hanteren we de nog nader aan te maken en te prioriteren issues alhier in deze repository.
+Hiervoor hanteren we de nog nader aan te maken en [te prioriteren issues](https://github.com/discipl/discipl-labs/issues) alhier in deze repository.
 
 
 <!-- Footnotes themselves at the bottom. -->
