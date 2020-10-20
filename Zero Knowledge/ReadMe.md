@@ -6,7 +6,15 @@ Hier kan men alles schrijven of vinden over het project Zero Knowledge proof.
 ...
 
 # Examples Use Cases
-voorbeelden voor toepassingen
+Voorbeelden voor toepassingen:
+   - Identity verification (age, adress)
+   - Package verification
+   - Subscriptions 
+   - Purchasing in physical stores
+   - Reservations
+   - Events (age limit)
+   - Coffee shops (Weed Pass)
+   - 
 
 # Technology
 ....
